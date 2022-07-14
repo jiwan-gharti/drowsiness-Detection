@@ -26,7 +26,6 @@ This code can detect your eyes and alert when the user is drowsy.
 > To run the code, type python Drowsiness_Detection.py
 > ``` cmd
     python Drowsiness_Detection.py
-  ```
 
 ## Outputs:
 ![drowsiness.PNG](https://github.com/jiwan-gharti/drowsiness-Detection/tree/main/outputs/drowsiness.PNG)
