@@ -29,7 +29,7 @@ python Drowsiness_Detection.py
 ```
 
 ## Outputs:
-![drowsiness.PNG](https://github.com/jiwan-gharti/drowsiness-Detection/tree/main/outputs/drowsiness.PNG)
+![drowsiness.PNG](/outputs/drowsiness.PNG)
 
 
 ## Reference:
